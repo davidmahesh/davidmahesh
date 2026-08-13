@@ -13,16 +13,7 @@
 
 - 📫 How to reach me **davidmaheshyarlagadda369@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/david-mahesh-yarlagadda-4733202ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-mahesh-yarlagadda-4733202ba" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/davidy369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/davidy369" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/david_369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/david_369" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/david36966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/david36966" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/davidy_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/davidy_123/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/davidmaheshyanrk1?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/davidmaheshyanrk1?tab=activity" height="30" width="40" /></a>
-</p>
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br><br>👨‍💻 All of my projects are available at https://github.com/davidmahesh<br><br>📫 How to reach me davidmaheshyarlagadda369@gmail.com
 
 
