@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidmahesh](https://github.com/davidmahesh)
-
-- 📫 How to reach me **davidmaheshyarlagadda369@gmail.com**
-
 ## 💫 About Me:
 🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br><br>👨‍💻 All of my projects are available at https://github.com/davidmahesh<br><br>📫 How to reach me davidmaheshyarlagadda369@gmail.com
 
