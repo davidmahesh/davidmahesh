@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="davidmahesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmahesh" alt="davidmahesh" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML and Data Analytics projects**
 
-- 🌱 I’m currently learning **Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies**
 
 ## 💫 About Me:
-🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br><br>👨‍💻 All of my projects are available at https://github.com/davidmahesh<br><br>📫 How to reach me davidmaheshyarlagadda369@gmail.com
+🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br>
 
 
 ## 🌐 Socials:
