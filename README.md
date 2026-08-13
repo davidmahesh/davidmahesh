@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+I'm+David+Mahesh&loop=0&cursorChar=_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=999999&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+I'm+David+Mahesh&loop=1&cursor=false" alt="Typing SVG" />
 </p>
 <h3 align="center">AI/ML Engineer | Data Analyst | Generative AI | Machine Learning | Python | Building Intelligent Solutions 🚀</h3>
 
