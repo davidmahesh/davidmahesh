@@ -16,12 +16,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davidmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="davidmahesh" /> </p>
 
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=davidmahesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?
-
-username=davidmahesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=davidmahesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
