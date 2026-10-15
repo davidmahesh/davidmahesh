@@ -3,6 +3,7 @@
 </p>
 <h3 align="center">AI/ML Engineer | Data Analyst | Generative AI | Machine Learning | Python | Building Intelligent Solutions 🚀</h3>
 
+
 ## 💫 About Me:
 🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br>
 
