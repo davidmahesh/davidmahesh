@@ -7,7 +7,6 @@
 ## 💫 About Me:
 🔭 I’m currently working on AI/ML and Data Analytics projects<br><br>🌱 I’m currently learning Generative AI, Deep Learning, Data Analytics, Power BI & Cloud Technologies<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-mahesh-yarlagadda-4733202ba) 
 
